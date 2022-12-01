@@ -3,7 +3,7 @@
 Update Content on Frontend Asynchronously using socket
 
 
-Alternate way to perform such tasks is using ajax 
+## Alternate way to perform such tasks is using ajax 
 
 POST data to flask without reloading frontend page :-
 #todo-form is id of form on frontend
