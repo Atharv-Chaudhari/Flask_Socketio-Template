@@ -72,3 +72,6 @@ If we have to retrive data after every 4 sec then
           setTimeout(yourFunction, 4000);
      }
 ```
+
+
+Reference :- https://stackoverflow.com/questions/43599537/python-flask-date-update-real-time
